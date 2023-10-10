@@ -1,0 +1,107 @@
+* {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.chapters-nav {
+    text-align: center;
+}
+
+
+
+.chapters-nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: blue;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s; /* Add a smooth transition effect */
+}
+
+.chapters-nav a:hover {
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+
+
+/* Style the main content */
+main {
+    max-width: 800px; /* Set a maximum width for better readability */
+    margin: 0 auto; /* Center the content horizontally */
+    padding: 20px; /* Add some padding to the content */
+}
+
+/* Style the main heading */
+main h1 {
+    font-size: 36px; /* Increase the font size for the main heading */
+    margin-bottom: 20px; /* Add some spacing below the heading */
+}
+
+/* Style the main paragraph */
+main p {
+    font-size: 16px; /* Set a comfortable font size for the text */
+    line-height: 1.5; /* Increase line height for better readability */
+    margin-bottom: 15px; /* Add spacing below each paragraph */
+}
+
+/* Style the aside (if you add content to it) */
+aside {
+    background-color: #f0f0f0; /* Set a background color for the aside */
+    padding: 15px; /* Add some padding inside the aside */
+    border-radius: 5px; /* Round the corners of the aside */
+    margin-top: 20px; /* Add spacing between main content and aside */
+}
+
+/* You can further customize the styles as per your design preferences */
+
+
+
+
+
+/* Style the sub-chapters/content menu */
+.sub-chapters {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    position: sticky;
+    top: 20px; /* Adjust the distance from the top as needed */
+}
+
+.sub-chapters h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.sub-chapters ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sub-chapters li {
+    margin-bottom: 5px;
+}
+
+.sub-chapters a {
+    text-decoration: none;
+    color: blue;
+}
+
+.sub-chapters a:hover {
+    text-decoration: underline;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+Action Plan
+
+T - Text
+M - Media
+W - Website
+O - Other
+
+Amount of weeks: VIII
+
+Before:
+O - Decide on what I want to create
+O - Create some rough plan
+T - Decide what type of text will it be
+T - Decide how will this text be presented
+W - Make a basic website with placeholders (Rough Sketch)
+
+During:
+O - Finalize all the parts of the system.
+W - Creating a functioning Website.
+M - Announce the project
+M - Try to advertise it if I can
+Repeat:
+    T - Write a chapter
+    W - Design the website for it
+Every week:
+    M - Make a post about chapter
+
+Extra:
+T - Create a digital (Maybe even physical) "book"
+
+After:
+O - Write Report [I think I will need to finish the whole cource 
+                    while writing the report, and store it to 
+                    upload it later.]

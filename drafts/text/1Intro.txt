@@ -1,0 +1,101 @@
+All right, let's do this one last time.
+I am human [oid]
+
+---
+
+Может быть мне начать с того как я 
+загружаю эту главу в интернет?
+
+Может это подойдёт для тизера?
+
+Дать аудитории какую-то акшен сцену, 
+и анонсировать сам веб-сайт?
+
+---
+
+How to befriending a computer
+
+Hello Lloyd, how are you doing? By the plan, this is
+a series through which we can learn 'bout coding. 
+I will be writing articles every-week, and you'll be able
+to see everything each Friday morning by the plan. 
+
+I won't tell the story of my life to you right now, but 
+shortly, you can call me Umarik, and I've been coding for past
+several years, and it was a quite tough journey for me. 
+
+I've walked through the world of computers, and made a map.
+
+I've explored the world of programming, and now, 
+I invite you to the journey through this world.
+
+Even though there are many books, cources, tutorials, articles,
+and more about coding, I 
+It took me years and pretty big amount of 
+
+The problem I'm trying to solve here is the fact that it 
+is pretty hard to learn coding nowardays, and not because
+coding is complex; it's quite the opposite. It's beauty is
+in it's simplicity. The thing which makes it hard to learn
+is the fact that there is an information overflow. 
+
+Let me guide you to the world of digital.
+Let's step into the first chapter.
+
+---
+
+How to befriend a computer?
+
+Hello, how are you doing? By the plan this is a 
+series through which we can learn 'bout coding.
+I won't tel the story of my life to you right now, 
+but shortly, you can call me Umarik, and I've been 
+coding for past several years, and it was a quite 
+touch journey for me.
+
+I've explored the world of programming and made a map
+for myself. Now I will guide you to start your journey
+into the world of digital.
+
+Here, we will be learning more than just coding. 
+Except how the computer works, I will be spicing
+thing up with quizzes, tips % tricks, tutorials and more.
+
+With these words said, let's begin?
+
+---
+
+Strings:
+
+How to befriend a computer?
+
+Hello, how are you doing? By the plan this is a series through which we can learn 'bout coding. I won't tel the story of my life to you right now, but shortly, you can call me Umarik, and I've been coding for past several years, and it was a quite touch journey for me.
+
+I've explored the world of programming and made a map for myself. Now I will guide you to start your journey into the world of digital.
+
+Here, we will be learning more than just coding. Except how the computer works, I will be spicing thing up with quizzes, tips % tricks, tutorials and more.
+
+With these words said, let's begin?
+
+---
+
+How to befriend a computer
+
+Have you ever wanted to know how do different programs on your computer work? [wip]
+
+By the plan this is a series through which you can learn about coding, so if you came here with this in mind you're in a right place!
+I won't tell the story of my life to you right now, but shortly, I've been learning how to code for past several years, and it was a quite tough journey for me.
+The problem was in an overdoze with theory and lack of intuition. If the first problem is relatively easy to solve, second one is a thing which hides underneath searface, and which many people don't even think about. Shortly, intuition is "the ability to understand something instinctively". I would also call it a spider-sense.
+There are many great cources, tutorials, books which would teach you a lot, and I've gone through many of them, but yet I couldn't find any place where you would learn the "profession of coding", starting from planning, coding, organization, code maintainance & style, deployement... 
+So I decided to help out to people who want to learn about and maybe one day become programmers, and don't worry, I'll spice up this journey with various quizzes, other sources, tips & tricks & more.
+This website will be updating with new resources every Friday morning, and if you don't want to miss out, subscribe to the newsletter and/or follow me on instagram.
+With these words said, let's begin?
+
+---
+
+How to befriend a computer
+
+By the plan this is a series through which you can learn about coding, so if you came here with this in mind you're in a right place! I won't tell the story of my life to you right now, but shortly, I've been learning how to code for past several years, and it was a quite tough journey for me. The problem was in an overdoze with theory and lack of intuition. If the first problem is relatively easy to solve, second one is a thing which hides underneath searface, and which many people don't even think about. Shortly, intuition is "the ability to understand something instinctively". I would also call it a spider-sense. There are many great cources, tutorials, books which would teach you a lot, and I've gone through many of them, but yet I couldn't find any place where you would learn the "profession of coding", starting from planning, coding, organization, code maintainance & style, deployement... So I decided to help out to people who want to learn about and maybe one day become programmers, and don't worry, I'll spice up this journey with various quizzes, other sources, tips & tricks & more. This website will be updating with new resources every Friday morning, and if you don't want to miss out, subscribe to the newsletter and/or follow me on instagram. With these words said, let's begin?
+
+---
+
