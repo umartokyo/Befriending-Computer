@@ -1,0 +1,39 @@
+# Plan 2
+- [ ] Overture
+  - [ ] What is this
+  - [ ] Who am I
+  - [ ] Why is this
+- [ ] Intro (Intro is one chapter)
+  - [ ] What do programmers do +[map of programming]
+  Why would we learn that
+  - [ ] How does computer read our code (one by line from top to bottom)
+  - [ ] Operational systems and terminals (don’t be scared, this is just a file system. Show basic commands like “ls”, “cd”, “mkdir”, “nano”
+  - [ ] Programming Languages +[Python] +[Download Python]+[What are IDE’s]+[Download Visual Studio Code]
+- [ ] Python Basics
+  - [ ] Commands & Operations (stuff like print(), input(), +-…)
+  - [ ] Variables and data types (None, Bool, Char, Strings, Integers, Floats) (Talking about mutable immutable, true, false, global, local…)
+  - [ ] Conditional Code +[adventure game Project]+[unprint]
+  - [ ] Functions +[currency/temperature converter Project]
+  - [ ] White loops +[number Guesser] and For loops +[Prime Number Algorithm]+[what is algorithm]
+  - [ ] Lists, Tuples, Dictionaries +[Grade Calculator]+Life-hack which one is better.
+- [ ] Intermediate Python
+  - [ ] Packages and Virtual Environments +[dad jokes]
+  - [ ] Modules and Working with other files +[if name == ‘main’]
+  - [ ] OOP +[virtual pet]
+  - [ ] Errors and Exceptions, Testing types and Unit-Tests
+  - [ ] Comprehensions and lambda functions
+  - [ ] Git and Github + Polaroid Image Effect project (cv2)
+  - [ ] Databases, SQLite
+  - [ ] GUI’s with tkinter + to-do list
+- [ ] Final [after I finished posting everything, the last post will be about…]
+  - [ ] Take a look at Google’s Writing Guide
+  - [ ] Learn Flask/Django/Fast if you want to work on web
+  - [ ] Learn Docker
+  - [ ] Learn basics of Web
+  - [ ] Learn more about algorithms if you want to work
+  - [ ] There’s such thing called paired programming
+  - [ ] Open source your code
+  - [ ] How to practice coding: leetcode, projects…
+  - [ ] You can also try paired programming
+  - [ ] Goor Resources to learn more 
+  - [ ] I will still post some projects, and hope to see ya soon ;)
