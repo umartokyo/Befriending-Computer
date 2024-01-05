@@ -10,8 +10,8 @@ In "Befriending Computers," I will focus on writing high-quality material, and t
 
 The plan is that I will publish 1 chapter (sometimes I'll refer to them as "logs") every Friday morning and send a link to you through email, so you can enjoy it throughout the last day of the week or weekends, depending on when you'll have time and mood. I highly suggest reading it on or with a computer and following the instructions here.
 
-I will be publishing these articles on GitHub and Medium, where you can enjoy these writings and stay tuned via my Instagram or my Medium Newsletters. (Links will be in bio)
+I will be publishing these articles on [GitHub](https://github.com/umartokyo/Befriending-Computer) and [Medium](https://umarbektokyo.medium.com/list/befriending-computer-5d5de2d10334), where you can enjoy these writings and stay tuned via my [Instagram](https://www.instagram.com/umarbektokyo/) or [Medium Newsletters](https://umarbektokyo.medium.com/subscribe).
 
 A younger sister of mine (an 11-year-old artist) and a few other people are in beta testing for Befriending Computer to make sure that the content's quality is high and it's understandable for everyone. If you'd like to join the beta program, then please message me through Instagram or mail.
 
-Thank you for entering this journey, and feel free to share this project with your friends who might be interested!
+Feel free to share this project with your friends who might be interested!
