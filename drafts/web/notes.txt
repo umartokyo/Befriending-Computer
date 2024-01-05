@@ -1,6 +1,0 @@
-css positioning:
-- Default
-- Relative: We can change the location of the element relatively to it's original position
-- Absolute: We can change the lcoation of the element relatively to the whole document (Document just forgets about our element, and draws everything on top. (as the sticker))
-- Absolute + Non-default-parent: We can change the location of the element relatively to the parent (Document just forgets about our element, and draws everything on top. (as the sticker))
-- 
