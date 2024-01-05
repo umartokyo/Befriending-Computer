@@ -1,5 +1,11 @@
 # Befriending-Computer
 
+Contacts:
+- [Instagram](https://www.instagram.com/umarbektokyo/)
+- [Medium](https://medium.com/@umarbektokyo)
+- [Newsletter](https://umarbektokyo.medium.com/subscribe)
+
+## Overture
 Hello, passionate reader!
 
 If you have a curious mind and want to befriend a computer, this has the right audience!
